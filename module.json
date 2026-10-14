@@ -1,0 +1,17 @@
+{
+  "id": "my-compendium-ru",
+  "title": "Maxwell's Manual of Malicious Maladies - перевод библиотек ",
+  "description": "Перевод библиотек MMMM на русский язык через Babele",
+  "version": "1.0.0",
+  "esmodules": [
+    "scripts/register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      }
+    ]
+  }
+}
