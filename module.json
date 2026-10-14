@@ -1,11 +1,11 @@
 {
-"id": "my-compendium-ru",
+"id": "mmmm-ru",
 "title": "Maxwell's Manual of Malicious Maladies - перевод библиотек",
 "description": "Перевод библиотек MMMM на русский язык через Babele",
 "version": "0.1.0",
 "authors": [
 {
-"name": "ТВОЁ_ИМЯ"
+"name": "Kirsard"
 }
 ],
 "compatibility": {
@@ -25,5 +25,5 @@
 },
 "url": "https://github.com/Kirsard/mmmm-ru",
 "manifest": "https://raw.githubusercontent.com/Kirsard/mmmm-ru/main/module.json",
-"download": "https://github.com/Kirsard/mmmm-ru/releases/download/v1.0.0/my-compendium-ru.zip"
+"download": "https://github.com/Kirsard/mmmm-ru/releases/download/v0.1.0/mmmm-ru.zip"
 }
