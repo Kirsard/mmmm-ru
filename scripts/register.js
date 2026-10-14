@@ -1,6 +1,6 @@
 Hooks.once("init", () => {
   Babele.get().register({
-    module: "my-compendium-ru",
+    module: "mmm",
     lang: "ru",
     dir: "compendium"
   });
